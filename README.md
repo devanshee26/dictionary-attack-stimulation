@@ -26,9 +26,9 @@ This project demonstrates the process of cracking password hashes using **Hashca
 
 ### Step 2: Upload Password Dictionaries
 1. Download the following dictionary files:
-   - **1M passwords**
-   - **10M passwords**
-   - **273M passwords**
+   - **[1M passwords](https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt)**
+   - **[10M passwords](https://weakpass.com/wordlists/ignis_10m.txt)**
+   - **[273M passwords](https://weakpass.com/wordlists/hashkiller24.txt)**
 2. Upload these files to your **Google Drive**.
 3. Update the file paths in the notebook to point to the uploaded dictionary files.
 
